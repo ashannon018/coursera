@@ -1,1 +1,5 @@
-1111
+links
+ * https://cs231n.github.io/neural-networks-case-study/
+ * https://github.com/dennybritz/nn-from-scratch
+ * https://stats.stackexchange.com/questions/211436/why-normalize-images-by-subtracting-datasets-image-mean-instead-of-the-current
+ * https://stackoverflow.com/questions/1907993/autoreload-of-modules-in-ipython 
